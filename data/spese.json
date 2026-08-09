@@ -172,5 +172,23 @@
       "Simone"
     ],
     "gruppoId": "gmslmerojstcs1k"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Zampironi",
+    "importo": 1.65,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmslmjgnk11rgzb"
   }
 ]
