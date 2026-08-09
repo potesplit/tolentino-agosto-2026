@@ -160,5 +160,17 @@
       "Simone"
     ],
     "gruppoId": "gmskdcdpniib2d4"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Spesa 2",
+    "importo": 10.22,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Ilaria",
+      "Simone"
+    ],
+    "gruppoId": "gmslmerojstcs1k"
   }
 ]
