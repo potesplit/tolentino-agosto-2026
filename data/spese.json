@@ -190,5 +190,18 @@
       "Simone"
     ],
     "gruppoId": "gmslmjgnk11rgzb"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Maschere 1",
+    "importo": 11.45,
+    "partecipanti": [
+      "Eleonora",
+      "Ilaria",
+      "Marcello",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmslmnwoy22f4do"
   }
 ]
