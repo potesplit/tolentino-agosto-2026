@@ -229,5 +229,22 @@
       "Francesco"
     ],
     "gruppoId": "gmsm5kdsii1t92v"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Spesa 3",
+    "importo": 141.93,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsn8902renx0wl"
   }
 ]
