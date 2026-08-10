@@ -246,5 +246,14 @@
       "Simone"
     ],
     "gruppoId": "gmsn8902renx0wl"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Birra 2",
+    "importo": 3.98,
+    "partecipanti": [
+      "Filippo"
+    ],
+    "gruppoId": "gmsn8bs8sgr9bgg"
   }
 ]
