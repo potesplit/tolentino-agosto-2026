@@ -271,5 +271,14 @@
       "Simone"
     ],
     "gruppoId": "gmsn8902renx0wl"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Medicine serena",
+    "importo": 21.04,
+    "partecipanti": [
+      "Serena"
+    ],
+    "gruppoId": "gmsnixg1fjezh3m"
   }
 ]
