@@ -363,5 +363,23 @@
       "Simone"
     ],
     "gruppoId": "gmsnlc0gku9rij9"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Spesa 4",
+    "importo": 5.68,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsnli3op4nlr33"
   }
 ]
