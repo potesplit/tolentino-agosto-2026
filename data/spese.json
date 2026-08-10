@@ -280,5 +280,23 @@
       "Serena"
     ],
     "gruppoId": "gmsnixg1fjezh3m"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Spesa 3 pt2",
+    "importo": 2.44,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsnjwz5pdz2roe"
   }
 ]
