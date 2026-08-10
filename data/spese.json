@@ -327,5 +327,14 @@
       "Riccardo"
     ],
     "gruppoId": "gmsnksrq30tlywf"
+  },
+  {
+    "nome": "Riccardo",
+    "descrizione": "Gatorade",
+    "importo": 0.94,
+    "partecipanti": [
+      "Francesco"
+    ],
+    "gruppoId": "gmsnku8dykxh2ck"
   }
 ]
