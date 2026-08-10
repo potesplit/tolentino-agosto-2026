@@ -267,5 +267,266 @@
         "importo": 26
       }
     ]
+  },
+  {
+    "titolo": "Sagra lumache",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 0,
+      "secondi": 0,
+      "contorni": 0,
+      "pizza": 0,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "Carlo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Eleonora",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Filippo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Francesco",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Ilaria",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Marcello",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Riccardo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Sara",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Serena",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Simone",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "Ragù oca",
+        "tipo": "divisa",
+        "importo": 10,
+        "partecipanti": [
+          "Filippo",
+          "Francesco"
+        ]
+      },
+      {
+        "descrizione": "Castrato",
+        "tipo": "divisa",
+        "importo": 14,
+        "partecipanti": [
+          "Filippo",
+          "Francesco"
+        ]
+      },
+      {
+        "descrizione": "Gamberi fiume",
+        "tipo": "divisa",
+        "importo": 11,
+        "partecipanti": [
+          "Francesco",
+          "Serena"
+        ]
+      },
+      {
+        "descrizione": "Lumache",
+        "tipo": "divisa",
+        "importo": 12,
+        "partecipanti": [
+          "Francesco",
+          "Serena"
+        ]
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Francesco",
+        "importo": 35
+      },
+      {
+        "nome": "Serena",
+        "importo": 12
+      }
+    ]
   }
 ]
