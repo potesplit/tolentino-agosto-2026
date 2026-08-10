@@ -341,5 +341,15 @@
       "Carlo": 1.29,
       "Riccardo": 0.99
     }
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Mochi",
+    "importo": 1.49,
+    "partecipanti": [
+      "Carlo",
+      "Marcello"
+    ],
+    "gruppoId": "gmsnl7ukhaj1g14"
   }
 ]
