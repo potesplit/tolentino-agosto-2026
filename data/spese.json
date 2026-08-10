@@ -282,9 +282,9 @@
     "gruppoId": "gmsnixg1fjezh3m"
   },
   {
-    "nome": "Ilaria",
-    "descrizione": "Spesa 3 pt2",
-    "importo": 2.44,
+    "nome": "Eleonora",
+    "descrizione": "Pizza",
+    "importo": 12.5,
     "partecipanti": [
       "Carlo",
       "Eleonora",
@@ -297,6 +297,6 @@
       "Serena",
       "Simone"
     ],
-    "gruppoId": "gmsnjwz5pdz2roe"
+    "gruppoId": "gmsnknb2659lr6e"
   }
 ]
