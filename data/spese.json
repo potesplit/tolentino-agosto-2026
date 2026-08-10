@@ -255,5 +255,21 @@
       "Filippo"
     ],
     "gruppoId": "gmsn8bs8sgr9bgg"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Spritz",
+    "importo": 39.39,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsn8gnpwrouo9t"
   }
 ]
