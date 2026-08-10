@@ -381,5 +381,23 @@
       "Simone"
     ],
     "gruppoId": "gmsnli3op4nlr33"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Coca-Cola",
+    "importo": 2.44,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsnljp0t7in1kf"
   }
 ]
