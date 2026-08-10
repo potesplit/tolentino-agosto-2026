@@ -329,12 +329,17 @@
     "gruppoId": "gmsnksrq30tlywf"
   },
   {
-    "nome": "Riccardo",
-    "descrizione": "Gatorade",
-    "importo": 0.94,
+    "nome": "Marcello",
+    "descrizione": "Spesa Marcello per singoli [NE]",
+    "importo": 2.28,
     "partecipanti": [
-      "Francesco"
+      "Carlo",
+      "Riccardo"
     ],
-    "gruppoId": "gmsnku8dykxh2ck"
+    "gruppoId": "gmsnl6610q5z4xx",
+    "quote": {
+      "Carlo": 1.29,
+      "Riccardo": 0.99
+    }
   }
 ]
