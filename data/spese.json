@@ -351,5 +351,17 @@
       "Marcello"
     ],
     "gruppoId": "gmsnl7ukhaj1g14"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Gelati 2",
+    "importo": 6.98,
+    "partecipanti": [
+      "Carlo",
+      "Marcello",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmsnlc0gku9rij9"
   }
 ]
