@@ -315,5 +315,17 @@
       "Simone"
     ],
     "gruppoId": "gmsnkqjhbudul8d"
+  },
+  {
+    "nome": "Riccardo",
+    "descrizione": "Pallone",
+    "importo": 11.99,
+    "partecipanti": [
+      "Carlo",
+      "Francesco",
+      "Marcello",
+      "Riccardo"
+    ],
+    "gruppoId": "gmsnksrq30tlywf"
   }
 ]
