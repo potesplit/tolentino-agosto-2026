@@ -493,5 +493,14 @@
       "Simone"
     ],
     "gruppoId": "gmsp93s9xdwmmce"
+  },
+  {
+    "nome": "Simone",
+    "descrizione": "Birra 3",
+    "importo": 3.39,
+    "partecipanti": [
+      "Filippo"
+    ],
+    "gruppoId": "gmsp9dh3ntcap7a"
   }
 ]
