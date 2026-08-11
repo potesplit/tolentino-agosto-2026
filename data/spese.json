@@ -502,5 +502,17 @@
       "Filippo"
     ],
     "gruppoId": "gmsp9dh3ntcap7a"
+  },
+  {
+    "nome": "Simone",
+    "descrizione": "Spritz 2",
+    "importo": 29.77,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmsp9iwsfn78cpj"
   }
 ]
