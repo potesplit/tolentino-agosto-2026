@@ -439,5 +439,23 @@
       "Serena"
     ],
     "gruppoId": "gmsoqkhgmnknmlb"
+  },
+  {
+    "nome": "Eleonora",
+    "descrizione": "Spesa 4 pt.1",
+    "importo": 11.42,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsp93s9xdwmmce"
   }
 ]
