@@ -282,23 +282,6 @@
     "gruppoId": "gmsnixg1fjezh3m"
   },
   {
-    "nome": "Eleonora",
-    "descrizione": "Pizza",
-    "importo": 12.5,
-    "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Filippo",
-      "Francesco",
-      "Ilaria",
-      "Marcello",
-      "Sara",
-      "Serena",
-      "Simone"
-    ],
-    "gruppoId": "gmsnknb2659lr6e"
-  },
-  {
     "nome": "Riccardo",
     "descrizione": "Acqua 1",
     "importo": 2.04,
@@ -431,5 +414,21 @@
       "Carlo": 13.2,
       "Marcello": 13.9
     }
+  },
+  {
+    "nome": "Eleonora",
+    "descrizione": "Pizza",
+    "importo": 12.5,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmsnknb2659lr6e"
   }
 ]
