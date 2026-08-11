@@ -428,5 +428,16 @@
       "Simone"
     ],
     "gruppoId": "gmskd7lqgissleq"
+  },
+  {
+    "nome": "Serena",
+    "descrizione": "Fagioli",
+    "importo": 4,
+    "partecipanti": [
+      "Marcello",
+      "Riccardo",
+      "Serena"
+    ],
+    "gruppoId": "gmsoqkhgmnknmlb"
   }
 ]
