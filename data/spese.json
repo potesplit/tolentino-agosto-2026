@@ -241,22 +241,6 @@
   },
   {
     "nome": "Marcello",
-    "descrizione": "Spritz",
-    "importo": 39.39,
-    "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Ilaria",
-      "Marcello",
-      "Riccardo",
-      "Sara",
-      "Serena",
-      "Simone"
-    ],
-    "gruppoId": "gmsn8gnpwrouo9t"
-  },
-  {
-    "nome": "Marcello",
     "descrizione": "Spesa 3",
     "importo": 142.02,
     "partecipanti": [
@@ -430,5 +414,20 @@
       "Simone"
     ],
     "gruppoId": "gmsnknb2659lr6e"
+  },
+  {
+    "nome": "Marcello",
+    "descrizione": "Spritz",
+    "importo": 39.39,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmsn8gnpwrouo9t"
   }
 ]
