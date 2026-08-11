@@ -417,5 +417,19 @@
       "Simone"
     ],
     "gruppoId": "gmsolemj6c9tlg4"
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Farmacia [NE]",
+    "importo": 27.1,
+    "partecipanti": [
+      "Carlo",
+      "Marcello"
+    ],
+    "gruppoId": "gmsoli4waanw4p0",
+    "quote": {
+      "Carlo": 13.2,
+      "Marcello": 13.9
+    }
   }
 ]
