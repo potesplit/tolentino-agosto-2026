@@ -399,5 +399,23 @@
       "Simone"
     ],
     "gruppoId": "gmsnljp0t7in1kf"
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Termometro",
+    "importo": 11.5,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsolemj6c9tlg4"
   }
 ]
