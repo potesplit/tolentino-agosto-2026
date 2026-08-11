@@ -457,5 +457,41 @@
       "Simone"
     ],
     "gruppoId": "gmsp93s9xdwmmce"
+  },
+  {
+    "nome": "Riccardo",
+    "descrizione": "Spesa 4 pt.1",
+    "importo": 5,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsp93s9xdwmmce"
+  },
+  {
+    "nome": "Simone",
+    "descrizione": "Spesa 4 pt.1",
+    "importo": 1.35,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsp93s9xdwmmce"
   }
 ]
