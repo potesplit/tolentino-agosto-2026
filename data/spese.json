@@ -122,19 +122,6 @@
     "gruppoId": "gmskd5ihayeppj1"
   },
   {
-    "nome": "Simone",
-    "descrizione": "Baylies",
-    "importo": 14.49,
-    "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Sara",
-      "Serena",
-      "Simone"
-    ],
-    "gruppoId": "gmskd7lqgissleq"
-  },
-  {
     "nome": "Serena",
     "descrizione": "Crostata",
     "importo": 8,
@@ -429,5 +416,17 @@
       "Simone"
     ],
     "gruppoId": "gmsn8gnpwrouo9t"
+  },
+  {
+    "nome": "Simone",
+    "descrizione": "Baylies",
+    "importo": 14.49,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmskd7lqgissleq"
   }
 ]
