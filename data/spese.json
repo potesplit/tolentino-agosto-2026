@@ -528,5 +528,23 @@
       "Sara"
     ],
     "gruppoId": "gmspxpa0flhu59o"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Spesa 5",
+    "importo": 36.81,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmspxsgoj7m1lre"
   }
 ]
