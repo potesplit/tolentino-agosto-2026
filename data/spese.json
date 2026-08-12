@@ -546,5 +546,22 @@
       "Simone"
     ],
     "gruppoId": "gmspxsgoj7m1lre"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Salumi",
+    "importo": 13.65,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Simone"
+    ],
+    "gruppoId": "gmspy1d3yyzjpsx"
   }
 ]
