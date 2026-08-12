@@ -595,5 +595,14 @@
       "Serena"
     ],
     "gruppoId": "gmspzprud0h1c3g"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Maschera per sara",
+    "importo": 2.29,
+    "partecipanti": [
+      "Sara"
+    ],
+    "gruppoId": "gmsq5ltbrv46ft3"
   }
 ]
