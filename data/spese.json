@@ -582,6 +582,15 @@
     "gruppoId": "gmspznps330f16w"
   },
   {
+    "nome": "Ilaria",
+    "descrizione": "Maschera per sara",
+    "importo": 2.29,
+    "partecipanti": [
+      "Sara"
+    ],
+    "gruppoId": "gmsq5ltbrv46ft3"
+  },
+  {
     "nome": "Francesco",
     "descrizione": "lasagna 2",
     "importo": 46.93,
@@ -590,19 +599,12 @@
       "Eleonora",
       "Filippo",
       "Francesco",
+      "Ilaria",
       "Marcello",
       "Sara",
-      "Serena"
+      "Serena",
+      "Simone"
     ],
     "gruppoId": "gmspzprud0h1c3g"
-  },
-  {
-    "nome": "Ilaria",
-    "descrizione": "Maschera per sara",
-    "importo": 2.29,
-    "partecipanti": [
-      "Sara"
-    ],
-    "gruppoId": "gmsq5ltbrv46ft3"
   }
 ]
