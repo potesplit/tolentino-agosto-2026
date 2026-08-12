@@ -515,5 +515,18 @@
       "Simone"
     ],
     "gruppoId": "gmsp9iwsfn78cpj"
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Tortilla + guacamole",
+    "importo": 12.53,
+    "partecipanti": [
+      "Carlo",
+      "Filippo",
+      "Ilaria",
+      "Riccardo",
+      "Sara"
+    ],
+    "gruppoId": "gmspxpa0flhu59o"
   }
 ]
