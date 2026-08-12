@@ -580,5 +580,20 @@
       "Simone"
     ],
     "gruppoId": "gmspznps330f16w"
+  },
+  {
+    "nome": "Francesco",
+    "descrizione": "lasagna 2",
+    "importo": 46.93,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Sara",
+      "Serena"
+    ],
+    "gruppoId": "gmspzprud0h1c3g"
   }
 ]
