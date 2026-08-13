@@ -622,5 +622,23 @@
       "Riccardo": 7,
       "Simone": 18.25
     }
+  },
+  {
+    "nome": "Ilaria",
+    "descrizione": "Benzina macchina Lentini andata e ritorno",
+    "importo": 10,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsrfzufb5fhofu"
   }
 ]
