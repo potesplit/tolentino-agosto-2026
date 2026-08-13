@@ -640,5 +640,21 @@
       "Simone"
     ],
     "gruppoId": "gmsrfzufb5fhofu"
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Sagra maialino (Sara) [NE]",
+    "importo": 27.5,
+    "partecipanti": [
+      "Carlo",
+      "Marcello",
+      "Sara"
+    ],
+    "gruppoId": "gmsrwbysbhrb673",
+    "quote": {
+      "Carlo": 3.75,
+      "Marcello": 10,
+      "Sara": 13.75
+    }
   }
 ]
