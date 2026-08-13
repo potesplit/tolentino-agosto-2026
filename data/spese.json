@@ -656,5 +656,14 @@
       "Marcello": 10,
       "Sara": 13.75
     }
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Acqua sagra",
+    "importo": 1,
+    "partecipanti": [
+      "Marcello"
+    ],
+    "gruppoId": "gmsrwwu4mq2f5ps"
   }
 ]
