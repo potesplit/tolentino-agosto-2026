@@ -712,5 +712,25 @@
       "Francesco"
     ],
     "gruppoId": "gmssyyl0wd5umd1"
+  },
+  {
+    "nome": "Eleonora",
+    "descrizione": "Piadine ultimo pranzo [NE]",
+    "importo": 44.7,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsszbcgmcn15p3",
+    "quote": {
+      "Carlo": 13.2,
+      "Eleonora": 13,
+      "Filippo": 6.7,
+      "Marcello": 5.9,
+      "Serena": 5.9
+    }
   }
 ]
