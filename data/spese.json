@@ -665,5 +665,14 @@
       "Marcello"
     ],
     "gruppoId": "gmsrwwu4mq2f5ps"
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Piadina Fra - Piadipollo",
+    "importo": 9.9,
+    "partecipanti": [
+      "Francesco"
+    ],
+    "gruppoId": "gmssxig9ip6dvqs"
   }
 ]
