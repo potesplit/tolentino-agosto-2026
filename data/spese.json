@@ -609,22 +609,6 @@
   },
   {
     "nome": "Ilaria",
-    "descrizione": "Benzina macchina simone (no Tolentino) [NE]",
-    "importo": 43,
-    "partecipanti": [
-      "Ilaria",
-      "Riccardo",
-      "Simone"
-    ],
-    "gruppoId": "gmsrfx3uildhiv5",
-    "quote": {
-      "Ilaria": 17.75,
-      "Riccardo": 7,
-      "Simone": 18.25
-    }
-  },
-  {
-    "nome": "Ilaria",
     "descrizione": "Benzina macchina Lentini tolentino",
     "importo": 10,
     "partecipanti": [
