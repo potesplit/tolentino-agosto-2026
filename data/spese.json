@@ -703,5 +703,14 @@
       "Filippo"
     ],
     "gruppoId": "gmssywuot2lgltc"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Cocazero Fra",
+    "importo": 1.58,
+    "partecipanti": [
+      "Francesco"
+    ],
+    "gruppoId": "gmssyyl0wd5umd1"
   }
 ]
