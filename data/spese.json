@@ -667,12 +667,21 @@
     "gruppoId": "gmsrwwu4mq2f5ps"
   },
   {
-    "nome": "Sara",
-    "descrizione": "Piadina Fra - Piadipollo",
-    "importo": 9.9,
+    "nome": "Carlo",
+    "descrizione": "Macchina Carlo",
+    "importo": 10,
     "partecipanti": [
-      "Francesco"
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
     ],
-    "gruppoId": "gmssxig9ip6dvqs"
+    "gruppoId": "gmssxrrnwbemv27"
   }
 ]
