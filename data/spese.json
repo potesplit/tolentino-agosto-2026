@@ -680,5 +680,19 @@
       "Serena"
     ],
     "gruppoId": "gmssxrrnwbemv27"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Ultima spesa Oasi (acqua)",
+    "importo": 2.04,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmssyut71kkzjr0"
   }
 ]
