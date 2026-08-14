@@ -667,21 +667,12 @@
     "gruppoId": "gmsrwwu4mq2f5ps"
   },
   {
-    "nome": "Carlo",
-    "descrizione": "Macchina Carlo",
-    "importo": 10,
+    "nome": "Sara",
+    "descrizione": "Piadina Fra",
+    "importo": 9.9,
     "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Filippo",
-      "Francesco",
-      "Ilaria",
-      "Marcello",
-      "Riccardo",
-      "Sara",
-      "Serena",
-      "Simone"
+      "Francesco"
     ],
-    "gruppoId": "gmssxrrnwbemv27"
+    "gruppoId": "gmssxig9ip6dvqs"
   }
 ]
