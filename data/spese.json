@@ -694,5 +694,14 @@
       "Serena"
     ],
     "gruppoId": "gmssyut71kkzjr0"
+  },
+  {
+    "nome": "Carlo",
+    "descrizione": "Ferrarelle",
+    "importo": 0.44,
+    "partecipanti": [
+      "Filippo"
+    ],
+    "gruppoId": "gmssywuot2lgltc"
   }
 ]
