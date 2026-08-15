@@ -788,5 +788,18 @@
       "Marcello": 5.9,
       "Serena": 5.9
     }
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "casello ritorno filippo",
+    "importo": 4.9,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsuxl9m707lb01"
   }
 ]
