@@ -716,5 +716,20 @@
       "Marcello": 5.9,
       "Serena": 5.9
     }
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "benzina filippo 2",
+    "importo": 3,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsuwlowbddbh9x"
   }
 ]
