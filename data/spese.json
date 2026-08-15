@@ -698,26 +698,6 @@
     "gruppoId": "gmssyyl0wd5umd1"
   },
   {
-    "nome": "Eleonora",
-    "descrizione": "Piadine ultimo pranzo [NE]",
-    "importo": 44.7,
-    "partecipanti": [
-      "Carlo",
-      "Eleonora",
-      "Filippo",
-      "Marcello",
-      "Serena"
-    ],
-    "gruppoId": "gmsszbcgmcn15p3",
-    "quote": {
-      "Carlo": 13.2,
-      "Eleonora": 13,
-      "Filippo": 6.7,
-      "Marcello": 5.9,
-      "Serena": 5.9
-    }
-  },
-  {
     "nome": "Filippo",
     "descrizione": "benzina filippo 2",
     "importo": 3,
@@ -764,5 +744,49 @@
       "Serena"
     ],
     "gruppoId": "gmsuwutpssf1wcs"
+  },
+  {
+    "nome": "Eleonora",
+    "descrizione": "Piadine ultimo pranzo [NE]",
+    "importo": 44.7,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsszbcgmcn15p3",
+    "quote": {
+      "Carlo": 13.2,
+      "Eleonora": 13,
+      "Filippo": 6.7,
+      "Francesco": 9.9,
+      "Marcello": 5.9,
+      "Serena": 5.9
+    }
+  },
+  {
+    "nome": "Sara",
+    "descrizione": "Piadine ultimo pranzo [NE]",
+    "importo": 9.9,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsszbcgmcn15p3",
+    "quote": {
+      "Carlo": 13.2,
+      "Eleonora": 13,
+      "Filippo": 6.7,
+      "Francesco": 9.9,
+      "Marcello": 5.9,
+      "Serena": 5.9
+    }
   }
 ]
