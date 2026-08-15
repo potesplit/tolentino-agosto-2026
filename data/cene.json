@@ -395,5 +395,154 @@
         "importo": 12
       }
     ]
+  },
+  {
+    "titolo": "sagra maialino spiedo",
+    "sconti": {
+      "antipasto": 0,
+      "primi": 0,
+      "secondi": 0,
+      "contorni": 0,
+      "pizza": 0,
+      "panini": 0,
+      "frutta": 0,
+      "acqua": 0,
+      "caffe": 0,
+      "bibite": 0,
+      "birra": 0,
+      "vino": 0,
+      "liquori": 0,
+      "menu": 0,
+      "coperto": 0,
+      "dolci": 0
+    },
+    "persone": [
+      {
+        "nome": "Eleonora",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Filippo",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 1,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Francesco",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 1,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      },
+      {
+        "nome": "Serena",
+        "antipasto": 0,
+        "primi": 0,
+        "secondi": 0,
+        "contorni": 0,
+        "pizza": 0,
+        "panini": 0,
+        "frutta": 0,
+        "acqua": 0,
+        "caffe": 0,
+        "bibite": 0,
+        "birra": 0,
+        "vino": 0,
+        "liquori": 0,
+        "menu": 0,
+        "coperto": 0,
+        "dolci": 0
+      }
+    ],
+    "speseCondivise": [
+      {
+        "descrizione": "salsicce",
+        "tipo": "divisa",
+        "importo": 7,
+        "partecipanti": [
+          "Eleonora",
+          "Francesco"
+        ]
+      },
+      {
+        "descrizione": "maialino",
+        "tipo": "divisa",
+        "importo": 16,
+        "partecipanti": [
+          "Francesco",
+          "Serena"
+        ]
+      },
+      {
+        "descrizione": "maialino",
+        "tipo": "divisa",
+        "importo": 16,
+        "partecipanti": [
+          "Filippo"
+        ]
+      },
+      {
+        "descrizione": "pasta",
+        "tipo": "divisa",
+        "importo": 10,
+        "partecipanti": [
+          "Serena"
+        ]
+      }
+    ],
+    "pagatori": [
+      {
+        "nome": "Eleonora",
+        "importo": 12
+      },
+      {
+        "nome": "Francesco",
+        "importo": 23
+      },
+      {
+        "nome": "Serena",
+        "importo": 16
+      }
+    ]
   }
 ]
