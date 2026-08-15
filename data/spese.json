@@ -731,5 +731,23 @@
       "Simone"
     ],
     "gruppoId": "gmsuwlowbddbh9x"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "benzina filippo 3",
+    "importo": 14,
+    "partecipanti": [
+      "Carlo",
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Ilaria",
+      "Marcello",
+      "Riccardo",
+      "Sara",
+      "Serena",
+      "Simone"
+    ],
+    "gruppoId": "gmsuwpxfyy1b2dn"
   }
 ]
