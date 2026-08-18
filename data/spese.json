@@ -801,5 +801,18 @@
       "Serena"
     ],
     "gruppoId": "gmsuxl9m707lb01"
+  },
+  {
+    "nome": "Filippo",
+    "descrizione": "Benzina Macchina Filippo ritorno",
+    "importo": 28,
+    "partecipanti": [
+      "Eleonora",
+      "Filippo",
+      "Francesco",
+      "Marcello",
+      "Serena"
+    ],
+    "gruppoId": "gmsyux1wqvlfeha"
   }
 ]
